@@ -74,7 +74,7 @@ Continuo estudando, praticando projetos e participando de maratonas Full-Stack.<
 
 ## Portfólio
 
-⚡ Projetos desenvolvidos nos últimos mesess:
+⚡ Projetos desenvolvidos nos últimos meses:
 
 <details open>
   <summary><h3>Back-end + Front-end</h3></summary>
