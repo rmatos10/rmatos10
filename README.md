@@ -81,7 +81,7 @@ Continuo estudando, praticando projetos e participando de maratonas Full-Stack.<
   
   | Nome do Projeto | Linguagens/Frameworks |
   |------|-------|
-  | [NaTrave ⚽](https://github.com/rmatos10/) | NodeJS + Koa + Prisma / React + Vite + Tailwind |
+  | [NaTrave ⚽](https://github.com/rmatos10/natrave) | NodeJS + Koa + Prisma / React + Vite + Tailwind |
   
 </details>
 
