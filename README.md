@@ -6,7 +6,7 @@ Resido em Lages/SC e possuo um superior incompleto em Ciência da Computação.<
 Fiz diversos cursos entre plataformas online com objetivo de aprender Back-end, PHP, CodeIgniter, Laravel, MySQL, Front-End, Javascript, Typescript, Angular, React.<br/>
 Já utilizei vários frameworks e bibliotecas afim de automatizar o processo do desenvolvimento.<br/>
 Existem diversas ferramentas e métricas que fazem o seu site estar melhor rankeado nos principais buscadores da internet. Portanto penso na otimização, performance, acessibilidade na hora do desenvolvimento de uma aplicação.<br/>
-Continuo estudando, praticando projetos reais e participando de eventos de tecnologia.<br/>
+Continuo estudando, praticando projetos reais e participando de eventos da tecnologia.<br/>
 >Para maiores informações sobre minha formação, cursos realizados e atividades, acesse meu [Linkedin](https://www.linkedin.com/in/rafael-matos-ribeiro-404135150/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiizsilverio&color=yellow" alt="Profile views" /> </p>
