@@ -2,7 +2,7 @@
 
 Eu sou um Desenvolvedor Web com experiência há mais de 3 anos. Minha expertise é criar design de sites e sistemas, programação, SEO e muito mais.
 De alguns anos para cá, tenho dedicado tempo e estudo para me tornar um especialista em Front-End/Full-Stack.<br/>
-Resido em Lages/SC e possuo um superior incompleto em Ciência da Computação.<br/>
+Resido em Lages/SC e estou cursando em Ciência da Computação, com objetivo em finalizar em 2023.<br/>
 Fiz diversos cursos entre plataformas online com objetivo de aprender Back-end, PHP, CodeIgniter, Laravel, MySQL, Front-End, Javascript, Typescript, Angular, React.<br/>
 Já utilizei vários frameworks e bibliotecas afim de automatizar o processo do desenvolvimento.<br/>
 Existem diversas ferramentas e métricas que fazem o seu site estar melhor rankeado nos principais buscadores da internet. Portanto penso na otimização, performance, acessibilidade na hora do desenvolvimento de uma aplicação.<br/>
