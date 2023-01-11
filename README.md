@@ -86,6 +86,17 @@ Continuo estudando, praticando projetos reais e participando de eventos da tecno
   
 </details>
 
+<details open>
+  <summary><h3>Front-end</h3></summary>
+  
+  | Nome do Projeto | Linguagens/Frameworks |
+  |------|-------|
+  | [Rafael Matos — Cartão de Visitas Profissional :clipboard:](https://github.com/rmatos10/cartaovisitas) | JavaScript + CSS |
+  
+</details>
+
+
+
 <br />
     
 ## 📫 Contato
