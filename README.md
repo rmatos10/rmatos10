@@ -1,6 +1,6 @@
 ## Olá 👋, meu nome é Rafael Matos.
 
-Eu sou um Desenvolvedor Web com experiência há mais de 3 anos. Minha expertise é criar design de sites e sistemas, programação, SEO e muito mais.
+Eu sou um Desenvolvedor Web com experiência há mais de 4 anos. Minha expertise é criar design de sites e sistemas, programação, SEO e muito mais.
 De alguns anos para cá, tenho dedicado tempo e estudo para me tornar um especialista em Front-End/Full-Stack.<br/>
 Resido em Lages/SC e estou cursando Ciência da Computação, com objetivo de finalizar em 2025.<br/>
 Fiz diversos cursos entre plataformas online com objetivo de aprender Back-end, PHP, CodeIgniter, Laravel, MySQL, Front-End, Javascript, Typescript, Angular, React.<br/>
