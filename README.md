@@ -75,7 +75,7 @@ Continuo estudando, praticando projetos reais e participando de eventos da tecno
 
 ## Portfólio
 
-⚡ Projetos desenvolvidos nos últimos meses:
+⚡ Projetos públicos desenvolvidos nos últimos meses:
 
 <details open>
   <summary><h3>Back-end + Front-end</h3></summary>
@@ -91,6 +91,7 @@ Continuo estudando, praticando projetos reais e participando de eventos da tecno
   
   | Nome do Projeto | Linguagens/Frameworks |
   |------|-------|
+  | [Urna eletrônica 🗳️](https://github.com/rmatos10/urna-eletronica) | React + Next.js + Styled Components |
   | [Rafael Matos — Cartão de Visitas Profissional :clipboard:](https://github.com/rmatos10/cartaovisitas) | JavaScript + CSS |
   
 </details>
